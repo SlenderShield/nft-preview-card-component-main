@@ -98,6 +98,8 @@ body {
 	width: 30px;
 	height: 30px;
 	margin-right: 10px;
+	border: 1px solid hsl(0, 0%, 100%);
+	border-radius: 50%;
 }
 .author {
 	color: hsl(0, 0%, 100%);

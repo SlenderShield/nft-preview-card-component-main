@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://slendershield.github.io/nft-preview-card-component-main](https://slendershield.github.io/nft-preview-card-component-main)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-nft-card-built-using-css-flexbox-CIHwT1zHHf)
+- Live Site URL: [nft-preview-card-component-main](https://slendershield.github.io/nft-preview-card-component-main)
 
 ## My process
 
